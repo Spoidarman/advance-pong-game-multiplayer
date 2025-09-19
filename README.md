@@ -2,8 +2,6 @@
 
 An enhanced version of the classic Pong game built with Three.js featuring advanced scoring mechanics, two-player local multiplayer, and modern visual effects.
 
-![Game Preview](https://pong-moinak.netlify.app/)
-
 ### 🎯 Game Modes
 - **2-Player Local**: Play with a friend using separate controls
 - **vs CPU**: Challenge an intelligent AI opponent
