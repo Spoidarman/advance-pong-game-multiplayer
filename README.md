@@ -187,15 +187,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *For questions, issues, or feature requests, please open a GitHub issue.*
 
-This comprehensive README.md provides detailed information about the advanced Pong game, including installation instructions, gameplay mechanics, technical details, and contribution guidelines, following the best practices found in successful GitHub game repositories.[1][5]
-
-[1](https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5)
-[2](https://github.com/hchiam/learning-threejs)
-[3](https://erichlof.github.io/THREE.js-PathTracing-Renderer/)
-[4](https://github.com/topics/ping-pong)
-[5](https://github.com/MortimerGoro/PingPongWebGL)
-[6](https://tympanus.net/codrops/2022/11/25/conways-game-of-life-cellular-automata-and-renderbuffers-in-three-js/)
-[7](https://stackoverflow.com/questions/13845437/from-1-to-100-print-ping-if-multiple-of-3-pong-if-multiple-of-5-or-else-p)
-[8](https://zerotomastery.io/blog/node-js-projects-for-beginners-and-above/)
-[9](https://forum.babylonjs.com/t/the-debug-drawer-of-colliders-for-rapier3d-compat-using-babylon-js-and-javascript/42283)
-[10](https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/)
