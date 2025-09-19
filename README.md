@@ -1,5 +1,3 @@
-Based on the research and the enhanced Pong game we created, here's a comprehensive README.md file for GitHub:
-
 # 🏓 Advanced Pong - Three.js Edition
 
 An enhanced version of the classic Pong game built with Three.js featuring advanced scoring mechanics, two-player local multiplayer, and modern visual effects.
