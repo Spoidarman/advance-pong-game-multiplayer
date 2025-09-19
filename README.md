@@ -39,7 +39,7 @@ An enhanced version of the classic Pong game built with Three.js featuring advan
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/advanced-pong-threejs.git
+   git clone https://github.com/Spoidarman/advance-pong-game-multiplayer.git
    cd advanced-pong-threejs
    ```
 
